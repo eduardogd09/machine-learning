@@ -1,8 +1,8 @@
-site_name: Template de Entrega
-site_author: Sandmann, H.
-site_url: https://hsandmann.github.io/documentation.template
-repo_url: https://github.com/hsandmann/documentation.template
-repo_name: github/documentation.template
+site_name: Entrega 1
+site_author: Davila, E.
+site_url: https://eduardogd09.github.io/machine-learning
+repo_url: https://github.com/eduardogd09/machine-learning
+repo_name: github/machine-learning
 
 theme:
   name: material
