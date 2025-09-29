@@ -2,26 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://eduardogd09.github.io/machine-learning/</loc>
-         <lastmod>2025-09-01</lastmod>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://eduardogd09.github.io/machine-learning/K-Means/main/</loc>
+         <lastmod>2025-09-29</lastmod>
+    </url>
+    <url>
+         <loc>https://eduardogd09.github.io/machine-learning/KNN/main/</loc>
+         <lastmod>2025-09-29</lastmod>
     </url>
     <url>
          <loc>https://eduardogd09.github.io/machine-learning/projeto/main/</loc>
-         <lastmod>2025-09-01</lastmod>
+         <lastmod>2025-09-29</lastmod>
     </url>
     <url>
          <loc>https://eduardogd09.github.io/machine-learning/roteiro1/main/</loc>
-         <lastmod>2025-09-01</lastmod>
+         <lastmod>2025-09-29</lastmod>
     </url>
     <url>
          <loc>https://eduardogd09.github.io/machine-learning/roteiro2/main/</loc>
-         <lastmod>2025-09-01</lastmod>
+         <lastmod>2025-09-29</lastmod>
     </url>
     <url>
          <loc>https://eduardogd09.github.io/machine-learning/roteiro3/main/</loc>
-         <lastmod>2025-09-01</lastmod>
+         <lastmod>2025-09-29</lastmod>
     </url>
     <url>
          <loc>https://eduardogd09.github.io/machine-learning/roteiro4/main/</loc>
-         <lastmod>2025-09-01</lastmod>
+         <lastmod>2025-09-29</lastmod>
     </url>
 </urlset>
